@@ -14,6 +14,7 @@
 		28392A612A15148000180B03 /* MolinaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28392A5F2A15148000180B03 /* MolinaColeccionDeJuegos.xcdatamodeld */; };
 		28392A632A15148100180B03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28392A622A15148100180B03 /* Assets.xcassets */; };
 		28392A662A15148100180B03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28392A642A15148100180B03 /* LaunchScreen.storyboard */; };
+		28392A6E2A151D1C00180B03 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28392A6D2A151D1C00180B03 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		28392A622A15148100180B03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28392A652A15148100180B03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28392A672A15148100180B03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28392A6D2A151D1C00180B03 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				28392A642A15148100180B03 /* LaunchScreen.storyboard */,
 				28392A672A15148100180B03 /* Info.plist */,
 				28392A5F2A15148000180B03 /* MolinaColeccionDeJuegos.xcdatamodeld */,
+				28392A6D2A151D1C00180B03 /* JuegosViewController.swift */,
 			);
 			path = MolinaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28392A6E2A151D1C00180B03 /* JuegosViewController.swift in Sources */,
 				28392A5B2A15148000180B03 /* ViewController.swift in Sources */,
 				28392A612A15148000180B03 /* MolinaColeccionDeJuegos.xcdatamodeld in Sources */,
 				28392A572A15148000180B03 /* AppDelegate.swift in Sources */,
